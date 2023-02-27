@@ -1,4 +1,4 @@
-package com.example.internshipmanagementsystem;
+package com.wqm.ims;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
