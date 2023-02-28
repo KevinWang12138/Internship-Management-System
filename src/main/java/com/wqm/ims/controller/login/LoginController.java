@@ -1,5 +1,6 @@
 package com.wqm.ims.controller.login;
 
+import com.wqm.ims.common.CommonFunction;
 import com.wqm.ims.common.Response;
 import com.wqm.ims.common.request.login.LoginRequest;
 import com.wqm.ims.service.login.LoginService;
@@ -24,7 +25,10 @@ public class LoginController {
         if(phone==""||password==""){
             return new Response(paramErrorNo,paramErrorMsg,null);
         }
-        //todo 进行手机号校验
+        boolean phoneOk=CommonFunction.phoneVerification(phone);
+        if(!phoneOk){
+            return new Response(phoneErrorNo,phoneErrorMsg,null);
+        }
 
         //调用service进行登录操作
         response=loginService.login(phone,password,role);
