@@ -32,6 +32,10 @@ public class LoginController {
 
         //调用service进行登录操作
         response=loginService.login(phone,password,role);
+        if(response.errNo == 0){
+            //登录成功，将用户写进session
+            //todo
+        }
         return response;
     }
 }

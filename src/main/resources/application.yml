@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://101.42.53.10:3306/InternshipManagementSystem?serverTimezone=UTC
+    username: admin
+    password: 20010821
+
