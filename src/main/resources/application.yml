@@ -5,4 +5,8 @@ spring:
     url: jdbc:mysql://101.42.53.10:3306/InternshipManagementSystem?serverTimezone=UTC
     username: admin
     password: 20010821
-
+logging:
+  config: classpath:log4j.properties
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #开启sql日志
