@@ -5,7 +5,7 @@ import com.wqm.ims.common.Response;
 import com.wqm.ims.common.request.login.LoginRequest;
 import com.wqm.ims.service.login.LoginService;
 import jakarta.annotation.Resource;
-import org.springframework.beans.factory.annotation.Autowired;
+import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.*;
 
 import static com.wqm.ims.common.Constant.*;
@@ -16,7 +16,7 @@ public class LoginController {
     @Resource
     private LoginService loginService;
     @PostMapping("/login")
-    public Response login(@RequestBody LoginRequest request){
+    public Response login(@RequestBody LoginRequest request, HttpServletRequest httpServletRequest){
         String phone=request.getPhone();
         String password=request.getPassword();
         int role=request.getRole();
@@ -34,7 +34,7 @@ public class LoginController {
         response=loginService.login(phone,password,role);
         if(response.errNo == 0){
             //登录成功，将用户写进session
-            //todo
+            httpServletRequest.setAttribute("userId",phone);
         }
         return response;
     }

@@ -1,6 +1,7 @@
 package com.wqm.ims;
 
 import com.wqm.ims.common.CommonFunction;
+import com.wqm.ims.service.info.StudentInfoService;
 import com.wqm.ims.service.login.LoginService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,9 +18,15 @@ class InternshipManagementSystemApplicationTests {
 	@Autowired
 	LoginService loginService;
 
+	@Autowired
+	StudentInfoService studentInfoService;
+
 	@Test
 	void testDB(){
-		loginService.login("18302429555","123",0);
+		String a="2021-01-19";
+		String b="2021-12-19";
+		System.out.println(a.compareTo(b));
 	}
+
 
 }

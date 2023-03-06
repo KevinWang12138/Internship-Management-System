@@ -1,0 +1,135 @@
+2023-03-03-16-14 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-14 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-14 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15296 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-14 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-14 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-14 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-14 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.96 seconds (process running for 1.378)
+2023-03-03-16-14 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-14 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-14 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-15 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-15 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-15 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15342 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-15 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-15 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-15 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-15 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.805 seconds (process running for 1.188)
+2023-03-03-16-15 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-15 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-15 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-17 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-17 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-17 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15426 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-17 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-17 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-17 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-17 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.947 seconds (process running for 1.354)
+2023-03-03-16-17 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-17 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-17 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-17 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Starting InternshipManagementSystemApplication using Java 17.0.5 with PID 15432 (/Users/kevin/work/JavaProjects/Internship-Management-System/target/classes started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-17 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-17 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8080 (http)
+2023-03-03-16-17 [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [INFO] - Root WebApplicationContext: initialization completed in 418 ms
+2023-03-03-16-17 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-17 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-17 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-03-16-17 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Started InternshipManagementSystemApplication in 0.901 seconds (process running for 1.103)
+2023-03-03-16-17 [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2023-03-03-16-17 [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 1 ms
+2023-03-03-16-17 [http-nio-8080-exec-4] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-20 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-20 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15448 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.941 seconds (process running for 1.301)
+2023-03-03-16-20 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Starting InternshipManagementSystemApplication using Java 17.0.5 with PID 15459 (/Users/kevin/work/JavaProjects/Internship-Management-System/target/classes started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-20 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8080 (http)
+2023-03-03-16-20 [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [INFO] - Root WebApplicationContext: initialization completed in 432 ms
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-20 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Started InternshipManagementSystemApplication in 0.894 seconds (process running for 1.085)
+2023-03-03-16-20 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2023-03-03-16-20 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 0 ms
+2023-03-03-16-20 [http-nio-8080-exec-1] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-20 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-20 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15470 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.784 seconds (process running for 1.139)
+2023-03-03-16-20 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-20 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Starting InternshipManagementSystemApplication using Java 17.0.5 with PID 15475 (/Users/kevin/work/JavaProjects/Internship-Management-System/target/classes started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-20 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8080 (http)
+2023-03-03-16-20 [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [INFO] - Root WebApplicationContext: initialization completed in 413 ms
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.metadata.TableInfoHelper] [WARN] - Can not find table primary key in Class: "com.wqm.ims.bean.User".
+2023-03-03-16-20 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-20 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-03-16-20 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Started InternshipManagementSystemApplication in 0.876 seconds (process running for 1.068)
+2023-03-03-16-20 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2023-03-03-16-20 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 0 ms
+2023-03-03-16-20 [http-nio-8080-exec-1] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-22 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-22 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-22 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-22 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-22 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15499 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-22 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-22 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-22 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.788 seconds (process running for 1.153)
+2023-03-03-16-22 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-22 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-22 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-22 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Starting InternshipManagementSystemApplication using Java 17.0.5 with PID 15506 (/Users/kevin/work/JavaProjects/Internship-Management-System/target/classes started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-22 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-22 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8080 (http)
+2023-03-03-16-22 [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [INFO] - Root WebApplicationContext: initialization completed in 409 ms
+2023-03-03-16-22 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-22 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-03-16-22 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Started InternshipManagementSystemApplication in 0.875 seconds (process running for 1.07)
+2023-03-03-16-22 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2023-03-03-16-22 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 1 ms
+2023-03-03-16-22 [http-nio-8080-exec-1] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-44 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-44 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-44 [main] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [INFO] - Could not detect default configuration classes for test class [com.wqm.ims.InternshipManagementSystemApplicationTests]: InternshipManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-03-16-44 [main] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [INFO] - Found @SpringBootConfiguration com.wqm.ims.InternshipManagementSystemApplication for test class com.wqm.ims.InternshipManagementSystemApplicationTests
+2023-03-03-16-44 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Starting InternshipManagementSystemApplicationTests using Java 17.0.5 with PID 15581 (started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-44 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-44 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-44 [main] [com.wqm.ims.InternshipManagementSystemApplicationTests] [INFO] - Started InternshipManagementSystemApplicationTests in 0.95 seconds (process running for 1.313)
+2023-03-03-16-44 [main] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-44 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-44 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
+2023-03-03-16-44 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Starting InternshipManagementSystemApplication using Java 17.0.5 with PID 15594 (/Users/kevin/work/JavaProjects/Internship-Management-System/target/classes started by kevin in /Users/kevin/work/JavaProjects/Internship-Management-System)
+2023-03-03-16-44 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - No active profile set, falling back to 1 default profile: "default"
+2023-03-03-16-44 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8080 (http)
+2023-03-03-16-44 [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [INFO] - Root WebApplicationContext: initialization completed in 428 ms
+2023-03-03-16-44 [main] [com.baomidou.mybatisplus.core.injector.DefaultSqlInjector] [WARN] - class com.wqm.ims.bean.User ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-03-03-16-44 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-03-16-44 [main] [com.wqm.ims.InternshipManagementSystemApplication] [INFO] - Started InternshipManagementSystemApplication in 0.901 seconds (process running for 1.093)
+2023-03-03-16-44 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2023-03-03-16-44 [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 0 ms
+2023-03-03-16-44 [http-nio-8080-exec-1] [com.wqm.ims.aop.RequestAdvice] [INFO] - --request start--
+2023-03-03-16-44 [http-nio-8080-exec-1] [com.wqm.ims.aop.RequestAdvice] [INFO] - 调用方法：login
+2023-03-03-16-44 [http-nio-8080-exec-1] [com.wqm.ims.aop.RequestAdvice] [INFO] - 请求报文：LoginRequest(phone=18302429455, password=abc, role=1)
+2023-03-03-16-44 [http-nio-8080-exec-1] [com.wqm.ims.aop.RequestAdvice] [INFO] - --request end--
+2023-03-03-16-44 [http-nio-8080-exec-1] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} inited
+2023-03-03-16-45 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closing ...
+2023-03-03-16-45 [SpringApplicationShutdownHook] [com.alibaba.druid.pool.DruidDataSource] [INFO] - {dataSource-1} closed
