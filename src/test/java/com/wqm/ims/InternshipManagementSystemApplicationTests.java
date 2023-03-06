@@ -1,6 +1,7 @@
 package com.wqm.ims;
 
 import com.wqm.ims.common.CommonFunction;
+import com.wqm.ims.common.request.info.SetBasicInfoRequest;
 import com.wqm.ims.service.info.StudentInfoService;
 import com.wqm.ims.service.login.LoginService;
 import org.junit.jupiter.api.Test;
@@ -23,9 +24,7 @@ class InternshipManagementSystemApplicationTests {
 
 	@Test
 	void testDB(){
-		String a="2021-01-19";
-		String b="2021-12-19";
-		System.out.println(a.compareTo(b));
+		studentInfoService.SetBasicInternshipInfo("18302429555",new SetBasicInfoRequest(null,"美团","2029-07-18","2029-09-20","","",0));
 	}
 
 

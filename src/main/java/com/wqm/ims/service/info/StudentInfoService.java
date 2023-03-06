@@ -29,7 +29,7 @@ public class StudentInfoService {
             return new Response(commonErrorNo,"实习日期存在冲突",null);
         }
         //不冲突，则正常写入日期即可
-        int ok = basicCalenderInfoMapper.insert(new BasicCalendarInfo(null,userId,request.getCompanyId(),request.getCompanyName(),request.getStartDate(),request.getEndDate(),request.getStartWorkTime(),request.getEndWordTime(),request.getWorkType()));
+        int ok = basicCalenderInfoMapper.insert(new BasicCalendarInfo(userId,request.getCompanyId(),request.getCompanyName(),request.getStartDate(),request.getEndDate(),request.getStartWorkTime(),request.getEndWordTime(),request.getWorkType()));
         if(ok!=1){
             return new Response(commonErrorNo,commonErrorMsg,null);
         }
