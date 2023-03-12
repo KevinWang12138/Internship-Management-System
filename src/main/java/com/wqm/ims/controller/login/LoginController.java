@@ -9,6 +9,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.*;
 
 import static com.wqm.ims.common.Constant.*;
+import static com.wqm.ims.common.Md5.*;
 
 @RestController
 @ResponseBody
@@ -19,6 +20,8 @@ public class LoginController {
     public Response login(@RequestBody LoginRequest request, HttpServletRequest httpServletRequest){
         String phone=request.getPhone();
         String password=request.getPassword();
+        //对密码进行加密
+        password = md5(password);
         int role=request.getRole();
         Response response=null;
         //参数校验
