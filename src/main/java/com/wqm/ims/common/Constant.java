@@ -12,6 +12,7 @@ public class Constant {
     public static final int phoneErrorNo = 2002;
     public static final int phoneNotExistErrorNo = 2003;
     public static final int passwordErrorNo = 2004;
+    public static final int phoneExistErrorNo = 2005;
     /**
      * 错误信息
      */
@@ -21,4 +22,5 @@ public class Constant {
     public static final String phoneErrorMsg = "手机号格式错误，请输入正确的手机号";
     public static final String phoneNotExistErrorMsg = "手机号不存在，请注册";
     public static final String passwordErrorMsg = "密码输入错误，请重试";
+    public static final String phoneExistErrorMsg = "手机号已经存在，请登录";
 }

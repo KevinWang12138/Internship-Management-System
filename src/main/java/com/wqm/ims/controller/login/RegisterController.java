@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import static com.wqm.ims.common.Constant.*;
 import static com.wqm.ims.common.Constant.phoneErrorMsg;
+import static com.wqm.ims.common.Md5.*;
 
 @RestController
 public class RegisterController {
@@ -21,6 +22,7 @@ public class RegisterController {
     public Response register(@RequestBody RegisterRequest request){
         String phone=request.getPhone();
         String password=request.getPassword();
+        password = md5(password);
         int role=request.getRole();
         Response response=null;
         //参数校验
