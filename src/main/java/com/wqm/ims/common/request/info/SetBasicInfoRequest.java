@@ -7,6 +7,10 @@ public class SetBasicInfoRequest {
     private String companyId;
     private String companyName;
     private String startDate;
+    private String endDate;
+    private String startWorkTime;
+    private String endWordTime;
+    private int workType;
 
     public SetBasicInfoRequest(String companyId, String companyName, String startDate, String endDate, String startWorkTime, String endWordTime, int workType) {
         this.companyId = companyId;
@@ -17,9 +21,4 @@ public class SetBasicInfoRequest {
         this.endWordTime = endWordTime;
         this.workType = workType;
     }
-
-    private String endDate;
-    private String startWorkTime;
-    private String endWordTime;
-    private int workType;
 }
